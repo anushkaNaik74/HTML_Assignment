@@ -111,13 +111,13 @@ div.iconGroup {
   }
   
   /* Margin for all images */
-  div.iconGroup img.iconImage {
+  div.iconGroup i.iconImage {
     margin-left: 30px;
     margin-right: 10px;
   }
   
   /* Remove the right margin for the last image */
-  div.iconGroup img.iconImage:last-child {
+  div.iconGroup i.iconImage:last-child {
     margin-right: 0 !important;
   }
   
